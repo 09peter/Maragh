@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Versorgungsphase
 
 Es gibt zwei Ressourcen:

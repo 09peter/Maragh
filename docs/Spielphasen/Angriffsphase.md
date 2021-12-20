@@ -1,3 +1,7 @@
+---
+sidebar_position: 5
+---
+
 # Angriffsphase
 
 In dieser Phase darf ein Spieler eine angrenzende feindliche Armee, Festung oder Primärgebiet angreifen. 

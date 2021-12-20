@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Spielphasen
 
 Es gibt 4 Spielphasen:

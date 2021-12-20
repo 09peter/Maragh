@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Initiativphase
 
 Zu Beginn wird die Zugreihenfolge der Fraktionen, durch einen 2W6 Wurf bestimmt.

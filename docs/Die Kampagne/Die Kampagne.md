@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Die Kampagne
 
 Auf der Karte werden Armeen erstellt, bewegt und Angriffe auf feindliche Fraktionen deklariert. 
@@ -5,7 +9,7 @@ Diese Angriffe werden in Form eines Warhammer 40.000 Spiels, ausgetragen.
 
 Die Ergebnisse dieser Spiele werden anschließend auf der Karte dargestellt.
 
-# Startposition der Spieler
+## Startposition der Spieler
 
 - Jeder Spieler startet mit 1 "Primärgebiet" und 6 "Sekundärgebieten"
 - Die Startpositionen der Spieler sind vorgegeben.
