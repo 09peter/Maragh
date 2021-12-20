@@ -1,8 +1,3 @@
----
-id: my-home-doc
-slug: /
----
-
 # The Eternal War of M'aragh
 Wilkommen zum online Regelwerk der Warhammer 40K Kampagne "The Eternal War of M'aragh - Episode I"
 
