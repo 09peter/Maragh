@@ -44,7 +44,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         title: 'The Eternal War of M\'aragh',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/Maragh.svg',
+          src: 'img/Maragh-M.svg',
         },
         items: [
           {
