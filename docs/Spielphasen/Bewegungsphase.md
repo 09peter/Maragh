@@ -1,14 +1,14 @@
 # Bewegungsphase
 
-# Bewegung auf der Karte
+## Bewegung auf der Karte
 
 In dieser Phase darf jeder Spieler seine Armeen in ein angrenzendes Gebiet, in dem sich keine andere Armee (Freundliche oder Feindliche) bzw. welches kein feindliches Primärgebiet ist, bewegen.
 
-# Bewegungen über den Hafen
+## Bewegungen über den Hafen
 
 Steht eine Armee auf einem Feld, welches einen Hafen beinhaltet, darf diese sofort auf ein anderes Hafenfeld platziert werden. 
 
-# Orbitale Bewegung
+## Orbitale Bewegung
 
 Bewegt sich eine Armee auf ein Raumhafenfeld, so kann man diesen für 500 Rüstungspunkte verwenden, um diese in den Orbit zu senden.
 
@@ -28,7 +28,7 @@ Wenn man eine Armee, die sich im Orbit befindet, nicht länger versorgen kann, m
 „Es dürfen sich nur maximal 2 Armeen deiner Fraktion gleichzeitig im Orbit befinden!“
 
 
-# Armeen zusammenlegen (bis max. Stufe 3):
+## Armeen zusammenlegen (bis max. Stufe 3):
 
 Man darf zwei bis drei seiner Armeen zusammenführen, um eine größere Armee zu erhalten. 
 
