@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
+id: intro
 ---
 
 # The Eternal War of M'aragh
