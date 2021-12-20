@@ -1,1 +1,0 @@
-Es gibt vier Spielphasen
