@@ -70,7 +70,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             items: [
               {
                 label: 'The Eternal War of M\'aragh ruleset',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
