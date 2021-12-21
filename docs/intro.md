@@ -16,5 +16,11 @@ Die aktuelle Version des Regelwerks ist 1.5.1 (30/11/2021).
 - Battlescribe um Armeen zu bauen
 - W6-Würfel in rauen Mengen
 - Maßband
-- Kampffertig bemalte Armee (*Es gibt keine zusätzlichen Siegespunkte für die Bemalung!*)
+- Kampffertig bemalte Armee 
 - Einen kostenlosen Roll20 Account für den Zugriff auf die Karte.
+
+:::info
+
+Es gibt **keine** zusätzlichen Siegespunkte für die Bemalung!
+
+:::

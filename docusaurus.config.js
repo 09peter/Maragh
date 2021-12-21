@@ -1,9 +1,12 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const math = require('remark-math');
+const katex = require('rehype-katex');
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
-(module.exports = {
+(
+  module.exports = {
   title: 'Maragh Regelmentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://dreamy-khorana-0de25a.netlify.app',
@@ -24,6 +27,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           // Please change this to your repo.
           routeBasePath: '/',
           editUrl: 'https://github.com/09peter/Maragh/tree/main',
+          remarkPlugins: [math],
+          rehypePlugins: [katex],
         },
         blog: {
           showReadingTime: true,
@@ -36,6 +41,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
       }),
     ],
+  ],
+
+  stylesheets: [
+    {
+        href: "https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.css",
+        integrity: "sha384-Um5gpz1odJg5Z4HAmzPtgZKdTBHZdw8S29IecapCSB31ligYPhHQZMIlWLYQGVoc",
+        crossorigin: "anonymous",
+    },
   ],
 
   themeConfig:
