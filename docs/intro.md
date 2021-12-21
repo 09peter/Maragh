@@ -9,7 +9,7 @@ Wilkommen zum online Regelwerk der Warhammer 40K Kampagne "The Eternal War of M'
 
 Die aktuelle Version des Regelwerks ist 1.5.1 (30/11/2021).
 
-# Voraussetzungen
+## Voraussetzungen
 
 - Warhammer 40K Grundregelwerk
 - Codex deiner Fraktion
@@ -19,7 +19,7 @@ Die aktuelle Version des Regelwerks ist 1.5.1 (30/11/2021).
 - Kampffertig bemalte Armee 
 - Einen kostenlosen Roll20 Account für den Zugriff auf die Karte.
 
-:::info
+:::info Hinweis
 
 Es gibt **keine** zusätzlichen Siegespunkte für die Bemalung!
 
