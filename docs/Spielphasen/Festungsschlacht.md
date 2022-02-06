@@ -29,7 +29,7 @@ Handelt es sich um eine Festungsschlacht so darf der Verteidiger **eine Bastion*
 
 :::
 
-:::caution Schlacht um ein Primärgebiet
+:::info Schlacht um ein Primärgebiet
 
 Handelt es sich um eine Schlacht um ein Primärgebiet, so darf der Verteidiger **drei Bunker** und **eine Festung** platzieren:
 
@@ -83,11 +83,15 @@ Am Ende des Spiels gewinnt der Spieler, der am meisten Siegespunkte errungen hat
 
 Siegespunkte werden erzielt wie folgt:
 
+:::info Siegespunkte
+
 * Jeder Spieler erhält 1 Siegespunkt für jede feindliche Einheit, die zerstört wird.
 
 * Der Angreifer erhält 3 Siegespunkte für jeden Bunker, den er zerstört und für jeden Bunker, den er erobert und am Ende des Spiels noch hält. Der Verteidiger erhält 3 Siegespunkte für jeden anderen Bunker, der sich am Ende Spiels noch auf dem Schlachtfeld befindet. Eine Festung ist stattdessen 6 Siegespunkte wert.
 
 * Zusätzlich erhält man pro Befehlsphase einen Siegespunkt für jeden Missionszielmarker der gehalten wird. Diese werden erst ab Runde 2 gezählt. 
+
+:::
 
 ## Schritt 3: Die Schlacht schlagen
 
