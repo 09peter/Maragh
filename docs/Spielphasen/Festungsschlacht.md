@@ -95,3 +95,4 @@ Siegespunkte werden erzielt wie folgt:
 
 ## Schritt 3: Die Schlacht schlagen
 
+Die Schlacht wird 
