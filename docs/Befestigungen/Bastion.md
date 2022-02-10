@@ -10,7 +10,7 @@ Der Verteidiger darf bei einer Festungsschlacht *eine* Bastion aufstellen, mit f
 |---|---|---|---|---|---|---|---|---|
 |Bastion mit 10-18W|-|4+|6|8|18|-|7|3+|
 |Bastion mit 6-9W|-|5+|6|8|-|-|7|3+|
-|Bastion mit 1-5W|-|6+|6|8|18|-|7|3+|
+|Bastion mit 1-5W|-|6+|6|8|-|-|7|3+|
 
 |**Transporter**|
 |---|
