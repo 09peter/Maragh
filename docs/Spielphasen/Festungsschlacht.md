@@ -4,7 +4,13 @@ title: Festungsschlacht
 ---
 # Eine Schlacht gegen eine Festung schlagen
 
-Wird eine Festung angegriffen ermittelt man nicht wie üblich eine Mission aus dem Open-War Kartendeck, sondern spielt ein eigens erschaffenes Szenario namens "Festungsangriff". 
+Wird eine Festung angegriffen ermittelt man nicht wie üblich eine Mission aus dem Open-War Kartendeck, sondern spielt ein eigens erschaffenes Szenario namens "Festungsangriff".
+
+:::caution Hinweis
+
+Ein Primärgebiet kann nie zerstört oder eingenommen werden. Sollte der Angreifer die Festungsschlacht gewinnen, wird seine Armee in sein Primärgebiet platziert. Der Angreifer bekommt einen Siegesbonus (siehe [Siegesbedingungen](#siegesbedingungen)).
+
+:::
 
 ## Schritt 1: Angreifer und Verteidiger Bonus
 Zuerst darf der Verteidiger 500 RP ausgeben um seine Armee zu verstärken.
@@ -36,6 +42,14 @@ Handelt es sich um eine Schlacht um ein Primärgebiet, so darf der Verteidiger *
 :::
 
 Nachdem das Schlachtfeld aufgebaut ist, stellt der Verteidiger seine Armee in seiner Aufstellungszone auf. Danach stellt der Angreifer seine Armee in seiner Aufstellungszone auf. 
+
+## Schritt 3: Die Schlacht schlagen
+
+Die Schlacht wird jetzt geschlagen.
+
+Hat der Angreifer am Ende mehr Siegespunkte als der Verteidiger und alle Befestigungen stehen noch, kann er sich nun entscheiden ob er die Festung übernimmt oder zerstört. Sind alle Befestigungen zerstört so gilt die Festung als zerstört.
+
+Verluste, Gewinner-Bonus, etc. werden wie bei einer normalen Schlacht ermittelt (siehe [Normale Schlacht ab Schritt 11](normale-schlacht#schritt-11-verluste-ermitteln) )
 
 ## Sonderregeln bei Festungsschlachten
 
@@ -93,6 +107,6 @@ Siegespunkte werden erzielt wie folgt:
 
 :::
 
-## Schritt 3: Die Schlacht schlagen
+Wenn der Angreifer gewinnt, bekommt er 1000 Bonus-Versorgungspunkte und 500 Bonus-Rüstpunkte. Dies ist kumulativ zu etwaigen Boni durch das Gewinnen einer Schlacht, wie im Eternal War of Maragh Regelbuch beschrieben.
 
-Die Schlacht wird 
+Dann wird seine Armee in sein Primärgebiet platziert. 

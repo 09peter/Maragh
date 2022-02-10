@@ -36,3 +36,7 @@ Eine Bastion hat die Fähigkeiten **Feuerleuken**, **Automatisierte** Waffen und
 |Feuerluken|In deiner Fernkampfphase können bis zu 10 Modelle die sich in diesem Gebäude befinden zum Schießen gewählt werden. Miss alle Entfernungen und ziehe die Sichtliche von einem beliebigen Punkt des Gebäudes aus. Modelle im Gebäude können auch dann Fernkampfattacken ausführen wenn sich das Gebäude in Nahkampfreichweite um feindliche Einheiten befindet (_Siehe "Big Guns Never Tire" Regel aus dem Warhammer 40K Regelbuch_)|
 |Automatisierte Waffen|Jedes Mal, wenn dieses Modell in deiner Fernkampfphase zum Schießen gewählt wird und sich keine befreundeten Einheiten in ihm befinden, können die Heavy Bolter nur die nächste infrage kommende feindliche Einheit als Ziel wählen.|
 |In Trümmern|Wenn dieses Gebäude zerstört wird, wird einen W6 bevor etwaige Modelle aussteigen und bevor du es aus dem Spiel entfernst. Bei einer 6 explodiert das Magazin und jede Einheit innerhalb von 6"erleidet W6 Mortal Wounds. Bei jedem anderen Ergebnis liegt das Gebäude in Trümmern. Das Modell gilt für den Rest der Schlacht als zerstört und als Geländer mit den Eigenschaften "instabile Position", "schwieriges Gelände", und "ungeschütze Position".|
+
+**Fraktion**: Fraktionslos
+
+**Keywords**: Gelände, Gebäude, Fahrzeug, Transporter, Bastion
