@@ -104,7 +104,7 @@ Befestigungen, welche über eine Ballistische Fähigkeit verfügen, werden regul
 
 ### Sekundäre Missionsziele
 
-Bei einer Open War Schlacht wählen die Spieler jeweil 2 Chaos Missionsziele.
+Bei einer Open War Schlacht wählen die Spieler jeweil 2 [Chaos Missionsziele](Missionsziele).
 
 Bei einer Matched Play Schlacht wählen die Spieler 3 Sekundärziele aus dem Warhammer 40K Grundregelwerk und/oder Grand Tournament 2021. Als Alternative ist es auch möglich 2 Sekundärziele und 1 Chaos Missionsziel zu wählen.
 
@@ -114,7 +114,7 @@ Die Spieler wählen einen Spieltisch aus und stellen das Terrain auf.
 
 :::tip
 
-Die Spieler können das Gelände frei platzieren. Richtlinien, Vorschläge und Beispiele zur Platzierung von Terrain findet man in der [Dokumentation zum Spielfeld](#).
+Die Spieler können das Gelände frei platzieren. Richtlinien, Vorschläge und Beispiele zur Platzierung von Terrain findet man in der [Dokumentation zum Spielfeld](Spielfeld).
 
 :::
 
