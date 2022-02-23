@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1182 1182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+    <g id="Raumhafen" transform="matrix(1.10806,0,0,1.10806,66.2072,-218.273)">
+        <circle cx="473.209" cy="729.946" r="442.121" style="fill:rgb(204,204,204);"/>
+        <clipPath id="_clip1">
+            <circle cx="473.209" cy="729.946" r="442.121"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(4.2369,0,0,2.43109,-1340.04,-171.209)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:6.53px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.902478,-59.7506,196.987)">
+                <path d="M286.976,501.97L286.976,421.2" style="fill:none;stroke:black;stroke-width:25px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.902478,483.781,196.987)">
+                <path d="M286.976,501.97L286.976,421.2" style="fill:none;stroke:black;stroke-width:25px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.917035,-59.7505,192.632)">
+                <path d="M614.447,161.79C614.447,154.915 611.673,148.323 606.733,143.462C601.794,138.601 595.095,135.87 588.109,135.87C588.109,135.87 588.109,135.87 588.109,135.87C581.124,135.87 574.425,138.601 569.485,143.462C564.546,148.323 561.771,154.915 561.771,161.79C561.771,193.989 561.771,244.734 561.771,244.734L614.447,244.734L614.447,161.79Z" style="fill:white;stroke:black;stroke-width:24.8px;"/>
+            </g>
+            <g transform="matrix(3.25842,0,0,2.43109,-921.795,-171.209)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:7.85px;"/>
+            </g>
+            <g transform="matrix(1.31097,0,0,2.98377,-89.3636,-483.089)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:9.79px;"/>
+            </g>
+            <g transform="matrix(0.474989,0,0,3.15518,416.929,-579.811)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:10px;"/>
+            </g>
+            <g transform="matrix(0.474989,0,0,3.15518,119.017,-579.811)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:10px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.902478,-59.7506,196.987)">
+                <rect x="466.954" y="590.551" width="242.311" height="447.84" style="fill:none;stroke:black;stroke-width:25px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.594636,-59.7506,447.715)">
+                <rect x="466.954" y="590.551" width="242.311" height="447.84" style="fill:none;stroke:black;stroke-width:29.52px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.304487,-59.7506,684.033)">
+                <rect x="466.954" y="590.551" width="242.311" height="447.84" style="fill:none;stroke:black;stroke-width:33.5px;"/>
+            </g>
+            <g transform="matrix(0.902478,0,0,0.902478,-59.7506,196.987)">
+                <path d="M466.954,814.471L709.265,814.471" style="fill:none;stroke:black;stroke-width:25px;"/>
+            </g>
+            <g transform="matrix(0.474989,0,0,3.4595,267.973,-751.543)">
+                <rect x="344.042" y="337.796" width="166.808" height="226.508" style="fill:white;stroke:black;stroke-width:9.14px;"/>
+            </g>
+        </g>
+        <path d="M473.209,231.421C198.065,231.421 -25.316,454.803 -25.316,729.946C-25.316,1005.09 198.065,1228.47 473.209,1228.47C748.353,1228.47 971.734,1005.09 971.734,729.946C971.734,454.803 748.353,231.421 473.209,231.421ZM473.209,287.826C717.222,287.826 915.33,485.933 915.33,729.946C915.33,973.959 717.222,1172.07 473.209,1172.07C229.196,1172.07 31.088,973.959 31.088,729.946C31.088,485.933 229.196,287.826 473.209,287.826Z"/>
+    </g>
+</svg>
