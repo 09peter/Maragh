@@ -1,17 +1,10 @@
 ---
 sidebar_position: 2
-import ArmeeSvg from './static/img/Armee.svg';
-import FestungSvg from './static/img/Festung.svg';
-import HafenSvg from './static/img/Hafen.svg';
-import PrimargebietSvg from './static/img/Primargebiet.svg';
-import RaumhaufenSvg from './static/img/Raumhafen.svg';
 ---
 
 # Die Kampagnenkarte
 
 ## Armee
-
-<ArmeeSvg />;
 
 Armeen dürfen sich frei über die Kampagnenkarte bewegen und haben die 	Aufgabe Schlachten zu schlagen.
 
@@ -33,8 +26,6 @@ Armeen sind in Stufen gegliedert:
 
 ## Festungen
 
-<FestungSvg />;
-
 - In diesen Gebieten können neue Armeen aufgestellt werden.
 - Festungen können nicht angrenzend an eigene Festungen gebaut werden.
 - Festungen können nicht an Raumhäfen angrenzen.
@@ -45,8 +36,6 @@ Armeen sind in Stufen gegliedert:
 Die Festungsarmeen regenerieren je Makrorunde, in welcher sie nicht im Konflikt	stehen, 1 Stufe (500 Punkte) ihrer erlittenen Verluste.
 
 ## Primärgebiet
-
-<PrimargebietSvg />;
 
 - In diesem Gebiet können, wie in Festungen, neue Armeen erschaffen werden.
 - Das Primärgebiet beinhaltet eine Stufe 3 Armee die nur zur Verteidigung dient. 
@@ -59,14 +48,11 @@ Die Festungsarmeen regenerieren je Makrorunde, in welcher sie nicht im Konflikt	
 
 ## Hafen
 
-<HafenSvg />;
 
 - Wird eine Armee auf ein Feld mit einem Hafen bewegt, so darf man die Armee sofort zu einem beliebigen Hafenfeld auf der Karte bewegen.
 - Eine Armee welches auf einem Hafen-Feld steht und sich nicht wegbewegt, bekommt 250 VP pro besetztes Feld in der Versorgungsphase. 
 
 ## Raumhaufen
-
-<RaumhavenSvg />;
 
 - Können nie kontrolliert werden
 - Wird eine Armee auf ein Feld mit einem Raumhafen bewegt, so darf man sich 	für eine Orbitale Bewegung entscheiden. (siehe „Orbitale Bewegung“)
