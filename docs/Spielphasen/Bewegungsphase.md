@@ -10,7 +10,7 @@ In dieser Phase darf jeder Spieler seine Armeen bewegen. Um zu ermitteln wie wei
 
 ## Advancen
 
-Eine Armee kann sich auch schneller fortbewegen, in dem der Spieler einen D3 + 3 Wurf macht. Armeen welche advancen dürfen in der selben Runde nicht angreifen.
+Eine Armee kann sich auch schneller fortbewegen, in dem der Spieler einen D3 + 2 Wurf macht. Armeen welche advancen dürfen in der selben Runde nicht angreifen.
 
 ## Bewegungen über den Hafen
 
