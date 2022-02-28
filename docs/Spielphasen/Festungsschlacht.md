@@ -107,6 +107,6 @@ Siegespunkte werden erzielt wie folgt:
 
 :::
 
-Wenn der Angreifer gewinnt, bekommt er 1000 Bonus-Versorgungspunkte und 500 Bonus-Rüstpunkte. Dies ist kumulativ zu etwaigen Boni durch das Gewinnen einer Schlacht, wie im Eternal War of Maragh Regelbuch beschrieben.
+Wenn der Angreifer gewinnt, bekommt er 500 Bonus-Versorgungspunkte. Dies ist kumulativ zu etwaigen Boni durch das Gewinnen einer Schlacht, wie im Eternal War of Maragh Regelbuch beschrieben.
 
 Dann wird seine Armee in sein Primärgebiet platziert. 

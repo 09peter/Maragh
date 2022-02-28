@@ -4,9 +4,13 @@ sidebar_position: 4
 
 # Bewegungsphase
 
-## Bewegung auf der Karte
+## Normale Bewegung auf der Karte
 
-In dieser Phase darf jeder Spieler seine Armeen in ein angrenzendes Gebiet, in dem sich keine andere Armee (Freundliche oder Feindliche) bzw. welches kein feindliches Primärgebiet ist, bewegen.
+In dieser Phase darf jeder Spieler seine Armeen bewegen. Um zu ermitteln wie weit sich die Armee bewegt, wirft man einen D3 und bewegt die Armee dann so viele Felder wie erwürfelt wurden.
+
+## Advancen
+
+Eine Armee kann sich auch schneller fortbewegen, in dem der Spieler einen D3 + 3 Wurf macht. Armeen welche advancen dürfen in der selben Runde nicht angreifen.
 
 ## Bewegungen über den Hafen
 
@@ -14,13 +18,17 @@ Steht eine Armee auf einem Feld, welches einen Hafen beinhaltet, darf diese sofo
 
 ## Orbitale Bewegung
 
-Bewegt sich eine Armee auf ein Raumhafenfeld, so kann man diesen für 500 Rüstungspunkte verwenden, um diese in den Orbit zu senden.
+Eine Armee kann von jeglichem Feld, für 1500 Versogungspunkte, in den Orbit befördert werden.
+
+Bewegt sich eine Armee auf ein Raumhafenfeld, so kann man diese gratis in den Orbit senden.
+
+Ein Spieler kann nur maximal eine Armee im Orbit haben.
 
 Nach 1 bis 3 Runden kann diese Armee auf einem beliebigen freien Gebiet landen. 
 
 „Ausnahmen: feindliche Primär und Sekundärgebiete.“
 
-Jede Runde, welche im Orbit verbracht wird, kostet 250 Rüstungspunkte. 
+Jede Runde, welche im Orbit verbracht wird, kostet 250 Versorgungspunkte. 
 
 „Diese Kosten fallen zu Beginn der Bewegungsphase an!“
 „Beachte, eine Armee im Orbit kann nicht verstärkt werden!“

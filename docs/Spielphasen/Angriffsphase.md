@@ -6,7 +6,6 @@ sidebar_position: 5
 
 In dieser Phase darf ein Spieler eine angrenzende feindliche Armee, Festung oder Primärgebiet angreifen. 
 
-Außer bei Angriffen gegen Festungen darf nie mehr als eine Armee an einem Konflikt teilnehmen.
 
 ## Ablauf der Angriffsphase
 

@@ -35,7 +35,7 @@ Die zusätzlichen Armee-Punkte stehen nur für die aktuelle Schlacht zur Verfüg
 
 ## Schritt 3: Verteidigerbonus ermitteln (mobilisieren)
 
-Jetzt kann der Verteidiger zusätzlich Rüstungspunkte aus seinem Rüstungspool ausgeben, um diese in Form von Armeepunkten in seine Armee zu investieren. Das Punkte Maximum ist die Stufe der überlegenen Armee.
+Jetzt kann der Verteidiger zusätzlich Versorgungspunkte aus seinem Rüstungspool ausgeben, um diese in Form von Armeepunkten in seine Armee zu investieren. Das Punkte Maximum ist die Stufe der überlegenen Armee.
 
 :::caution Hinweis
 
@@ -47,11 +47,11 @@ Diese gelten ebenfalls nur für diese Schlacht und verfallen wie der Truppenbonu
 
 **Beispiel: Eine Armee mit Stufe 3 (1.500 Punkte) greift eine Armee mit Stufe 1 (500 Punkte) an.**
 
-**Annahme:** Der Verteidiger ermittelt als unterlegene Armee einen Truppenbonus von zusätzlichen 500 Punkten und könnte daher nochmal 500 Punkte aus seinem Rüstungspool investieren, um die Armee auszugleichen.
+**Annahme:** Der Verteidiger ermittelt als unterlegene Armee einen Truppenbonus von zusätzlichen 500 Punkten und könnte daher nochmal 500 Punkte aus seinem Versorgungspool investieren, um die Armee auszugleichen.
 
 **Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus voll-mobilisierter Verteidiger (temporär) Stufe 3 (1500 	Punkte)
 
-**Annahme:** Hätte der Verteidiger statt der benötigten 500 Punkte, nur 250 Rüstungspunkte in seinem Rüstungspool, so könnte er die Armee nur um 750 Armeepunkte verstärken und müsste mit einer Differenz von 250 Punkten gegen die angreifende Armee spielen.
+**Annahme:** Hätte der Verteidiger statt der benötigten 500 Punkte, nur 250 Versorgungspunkte in seinem Versorgungspool, so könnte er die Armee nur um 750 Armeepunkte verstärken und müsste mit einer Differenz von 250 Punkten gegen die angreifende Armee spielen.
 
 **Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus teil-mobilisierter Verteidiger (temporär) Stufe 2 (1250 	Punkte)
 
@@ -73,6 +73,7 @@ Haben beide Armeen nach Berücksichtigung aller Boni 1500 Punkte so dürfen die 
 ## Schritt 5: Mission ermitteln
 
 Eine Mission kann mit dem [Open War Missionsgenerator](http://warhammer-page-28686.s3-website-eu-west-1.amazonaws.com/) oder dem Kartendeck vor Ort ermittelt werden.
+Die Spieler können sich auch auf ein Matched-Play einigen und eine Mission aus der Eternal War/GT- Missionsreihe spielen. 
 
 1. Missionsziel-Karte ziehen
 2. Aufstellungs-Karte ziehen
@@ -81,6 +82,10 @@ Eine Mission kann mit dem [Open War Missionsgenerator](http://warhammer-page-286
 :::caution Achtung
 
 Noch keine Twist Karte ziehen!
+
+:::caution Achtung
+
+Open-War Sonderregel: Kein Deepstrike im ersten Zug!
 
 :::
 
@@ -171,9 +176,9 @@ Achtung! Wenn das Spiel skaliert wurde, muss die Tabelle unter „Schritt 4 Skal
 
 ## Schritt 12: Den Ausgang der Schlacht ermitteln
 
-Der Gewinner, erhält 500 Versorgungs- und 500 Rüstungspunkte.
+Der Gewinner, erhält 250 Versorgungspunkte.
 
-Sollte der Gewinner eine Armee gespielt haben, welche eine oder mehr Stufen niedriger als die des Gegners war, so bekommt er 1000 Versorgungs- und Rüstungspunkte als Belohnung.
+Sollte der Gewinner eine Armee gespielt haben, welche eine oder mehr Stufen niedriger als die des Gegners war, so bekommt er 500 Versorgungspunkte als Belohnung.
 
 Es gibt 4 Typen von Siegen:
 

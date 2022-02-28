@@ -12,8 +12,8 @@ Bei einer Matched Play Schlacht wählen die Spieler 3 Sekundärziele aus dem War
 
 |Missionziel|Voraussetzungen|
 |---|---|
-|**Hinrichtung**|Wenn du den gegnerischen Kriegsherrn in der Schlacht vernichtest, bekommst du 500 zusätzliche Versorgungspunkte in deiner nächsten Verstärkungsphase. *Dieses Missionsziel kann nicht gewählt werden, wenn man „Töte den Kriegsherrn“ aus den regulären sekundären Missionszielen aus-gewählt hat.*|
-|**Blut für den Blut Gott**|Vernichtest du mehr als 50% der feindlichen Truppen, darfst du in deiner nächsten Versorgungsphase eine zusätzliche Armee kostenlos erschaffen|
+|**Hinrichtung**|Wenn du den gegnerischen Kriegsherrn in der Schlacht vernichtest, bekommst du 250 zusätzliche Versorgungspunkte in deiner nächsten Verstärkungsphase. *Dieses Missionsziel kann nicht gewählt werden, wenn man „Töte den Kriegsherrn“ aus den regulären sekundären Missionszielen aus-gewählt hat.*|
+|**Blut für den Blut Gott**|Vernichtest du mehr als 50% der feindlichen Truppen, darfst du in deiner nächsten Bewegungsphase eine Armee advancen und angreifen lassen|
 |**Khorne‘s Schädel**|Vor Spielbeginn wählt man zwei gegnerische Standard-Einheiten aus. Wenn man diese Einheiten vernichtet, bekommt man Khorne‘s Schädel. Bei einer nächsten Schlacht kann man diesen einsetzen und seine Armee wird auf dieselbe Stufe wie die Überlegene gebracht. Man kann immer nur einen Schädel gleichzeitig besitzen.|
 
 ## Tzeentch Missionsziele

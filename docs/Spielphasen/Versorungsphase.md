@@ -4,13 +4,6 @@ sidebar_position: 3
 
 # Versorgungsphase
 
-Es gibt zwei Ressourcen:
-
-1. Versorgungspunkte
-2. Rüstungspunkte
-
-## Versorungspunkte
-
 Jeder Spieler erhält am Anfang der Phase Versorgungspunkte wie in unten angeführte Tabelle vorgesehen. Diese werden im Versorgungspool gesammelt.
 
 Zusätzlich, bekommen die Spieler 250 VP pro besetzten Hafen.
@@ -24,17 +17,6 @@ Zusätzlich, bekommen die Spieler 250 VP pro besetzten Hafen.
 |Primärgebiet + 4 Festungen|1750 VP|
 |Primärgebiet + 5 Festungen|2000 VP|
 
-## Rüstungspunkte
-
-Jeder Spieler erhält am Anfang der Phase Rüstungspunkte, welche im Rüstungspool gesammelt werden.
-
-Die Rüstpunkte können in der Bewegungs- und/oder in der Angriffsphase verwendet werden. Zusätzlich bekommen die Spieler 250 RP pro besetzten Raumhafen.
-
-|Rüstungsspunkte||
-|-------|---|
-|Primärgebiet|250 RP|
-|Primärgebiet + 1 Hafen|500 RP|
-|Primärgebiet + 2 Hafen|750 RP|
 
 # Ablauf der Versorgungsphase
 
@@ -72,4 +54,8 @@ Eine bestehende Armee um eine Stufe erhöhen, zB. von Stufe 1 auf Stufe 2, oder 
 ### 1000 Versorgungspunkte:
 Eine Armee mit Stufe 1 um zwei Stufen erhöhen auf Stufe 3.
 
+#### 1500 Versorgungspunkte:
+Eine Armee mit Stufe 1 um drei Stufen erhöhen auf Stufe 4.
+
 Armeen, welche in Konflikten stehen können, nicht verstärkt werden
+Ein Spieler kann nur maximal 5 Armeen besitzen
