@@ -54,6 +54,23 @@ const katex = require('rehype-katex');
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      /**algolia: {
+        // The application ID provided by Algolia
+        appId: 'XRT69VWS8Y',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '956e36eee9c1f8b0fe4ab154a3caac7a',
+  
+        indexName: 'YOUR_INDEX_NAME',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        //... other Algolia params
+      },**/
       navbar: {
         title: 'The Eternal War of M\'aragh',
         logo: {
