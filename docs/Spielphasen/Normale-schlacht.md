@@ -83,6 +83,8 @@ Die Spieler können sich auch auf ein Matched-Play einigen und eine Mission aus 
 
 Noch keine Twist Karte ziehen!
 
+:::
+
 :::caution Achtung
 
 Open-War Sonderregel: Kein Deepstrike im ersten Zug!
