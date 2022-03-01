@@ -19,4 +19,8 @@ Tyraniden-Armeen können sich in der Bewegungsphase, in welcher sie aufgestellt 
 
 -	Festungen, die vom Schwarm besiegt werden, sind zerstört und der Festungsmarker wird von der Kampagnenkarte entfernt.
 
-- 	Tyraniden können niemals ein Primärgebiet angreifen
+:::caution Hinweis
+
+Tyraniden können niemals ein Primärgebiet angreifen.
+
+:::
