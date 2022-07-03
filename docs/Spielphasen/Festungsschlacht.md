@@ -101,7 +101,7 @@ Siegespunkte werden erzielt wie folgt:
 
 * Jeder Spieler erhält 1 Siegespunkt für jede feindliche Einheit, die zerstört wird.
 
-* Der Angreifer erhält 3 Siegespunkte für jeden Bunker, den er zerstört und für jeden Bunker, den er erobert und am Ende des Spiels noch hält. Der Verteidiger erhält 3 Siegespunkte für jeden anderen Bunker, der sich am Ende Spiels noch auf dem Schlachtfeld befindet. Eine Festung ist stattdessen 6 Siegespunkte wert.
+* Der Angreifer erhält 3 Siegespunkte für jeden Bunker, den er zerstört und für jeden Bunker, den er erobert und am Ende des Spiels noch hält. Der Verteidiger erhält 3 Siegespunkte für jeden anderen Bunker, der sich am Ende Spiels noch auf dem Schlachtfeld befindet. Eine Festung ist stattdessen 6 Siegespunkte wert. Eine Bastion ist ebenso 6 Siegespunkte wert.
 
 * Zusätzlich erhält man pro Befehlsphase einen Siegespunkt für jeden Missionszielmarker der gehalten wird. Diese werden erst ab Runde 2 gezählt. 
 
