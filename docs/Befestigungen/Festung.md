@@ -2,6 +2,12 @@
 sidebar_position: 4
 ---
 
+:::danger Achtung
+
+Die Regeln zu Festungsschlachten werden momentan überarbeitet. Diese Version entspricht noch nicht den Letztstand.
+
+:::
+
 # Festung
 
 Der Verteidiger darf bei einer Festungsschlacht *eine* Festung aufstellen, mit folgenden Eigenschaften:

@@ -2,6 +2,12 @@
 sidebar_position: 2
 ---
 
+:::danger Achtung
+
+Die Regeln zu Festungsschlachten werden momentan überarbeitet. Diese Version entspricht noch nicht den Letztstand.
+
+:::
+
 # Bunker
 
 Der Verteidiger darf bei einer Festungsschlacht um ein Primärgebiet *drei* Bunker aufstellen, mit folgenden Eigenschaften:

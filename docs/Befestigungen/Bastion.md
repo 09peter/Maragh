@@ -2,6 +2,12 @@
 sidebar_position: 3
 ---
 
+:::danger Achtung
+
+Die Regeln zu Festungsschlachten werden momentan überarbeitet. Diese Version entspricht noch nicht den Letztstand.
+
+:::
+
 # Bastion
 
 Der Verteidiger darf bei einer Festungsschlacht *eine* Bastion aufstellen, mit folgenden Eigenschaften:
