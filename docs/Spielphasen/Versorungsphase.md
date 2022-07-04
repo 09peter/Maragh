@@ -6,8 +6,6 @@ sidebar_position: 3
 
 Jeder Spieler erhält am Anfang der Phase Versorgungspunkte wie in unten angeführte Tabelle vorgesehen. Diese werden im Versorgungspool gesammelt.
 
-Zusätzlich, bekommen die Spieler 250 VP pro besetzten Hafen.
-
 |Versorungspunkte||
 |-------|---|
 |Primärgebiet|750 VP|
@@ -17,11 +15,15 @@ Zusätzlich, bekommen die Spieler 250 VP pro besetzten Hafen.
 |Primärgebiet + 4 Festungen|1750 VP|
 |Primärgebiet + 5 Festungen|2000 VP|
 
+Pro besetzen Hafen, bekommen die Spieler 250 VP.
+
+Pro besetzte Makropole bekommt der Besitzer für jede Makropol-Stufe 250 VP zusätzlich.
 
 # Ablauf der Versorgungsphase
 
 Die Versorgungsphase unterteilt sich in zwei Abschnitte:
 
+- Falls der Spieler eine Makropole besitzt, muss am der Versorgungsphase für jede Makropole ein Populations-Wurf gemacht werden
 - Versorgungspunkte mit Hilfe der Tabelle ermitteln
 - Versorgungspunkte verwenden
 
@@ -33,15 +35,14 @@ Versorgungspunkte können verwendet werden um:
 
 ## Festung bauen
 
-Festungen werden auf Feldern wo sich eine Armee befindet gebaut. Der Spieler muss 3000 VP bezahlen oder gibt seine Armee auf um den Preis zu senken. Beispiel: Stufe 3 Armee baut eine Festung und wird aufgegeben. Es müssen somit nur 1500 VP bezahlt werden.
+Festungen werden auf Feldern wo sich eine Armee befindet gebaut. Der Spieler muss 3000 VP bezahlen oder gibt seine Armee auf um den Preis zu senken. Beispiel: Stufe 3 Armee baut eine Festung und wird aufgegeben. Es müssen somit nur weitere 1500 VP bezahlt werden.
 
 Limit: 5 Festungen (maximal 3 der 5 können gebaut werden)
 Heißt: 3 werden gebaut und 2 weitere erobert oder jemand erobert 5 Festungen.
 
 ##	Armeen bauen oder die Stufe einer Armee anheben
 
-Pro Kampagnenrunde können zwei neue Armeen ausgehoben werden. 
-Diese können entweder innerhalb der Sekundärgebiete oder von Festungen platziert werden. 
+Pro Kampagnenrunde können zwei neue Armeen ausgehoben werden. Diese können entweder innerhalb der Sekundärgebiete oder von Festungen platziert werden. 
 
 Neue Armeen können sich in der Runde weder bewegen, hochgestuft noch zusammengelegt werden.
 

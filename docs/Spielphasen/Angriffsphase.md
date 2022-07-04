@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 7
 ---
 
 # Angriffsphase
 
-In dieser Phase darf ein Spieler eine angrenzende feindliche Armee, Festung oder Primärgebiet angreifen. 
+In dieser Phase darf ein Spieler eine angrenzende feindliche Armee, Festung, Makropole oder Primärgebiet angreifen. 
 
 
 ## Ablauf der Angriffsphase
@@ -17,7 +17,11 @@ Ziele der angreifenden Armeen deklarieren.
 
 Der attackierte Spieler entscheidet sich nun das Gebiet zu verteidigen oder einen Rückzug zu erklären.
 
-„Achtung: Der Spieler welcher den Angriff angesagt hat, ist auch gleichzeitig der Angreifer im Warhammer 40.000 Spiel.“
+:::caution Achtung
+
+Der Spieler welcher den Angriff angesagt hat, ist auch gleichzeitig der Angreifer im Warhammer 40.000 Spiel.
+
+::::
 
 ## Rückzug
 
@@ -29,12 +33,13 @@ Die Armee darf sich in eines der folgenden Felder zurückziehen:
 
 Kann er dies nicht muss er die Schlacht schlagen oder die Armee und das Gebiet aufgeben.
 
-„Bei einem Rückzug verliert die betreffende Armee 1 Stufe!“
-„Eine Armee darf sich nur einmal pro Makrorunde zurückziehen!“
+Bei einem Rückzug verliert die betreffende Armee 1 Stufe.
+
+Eine Armee darf sich nur einmal pro Makrorunde zurückziehen.
 
 ## Verteidigen 
 
-Siehe „Die Schlacht schlagen!“ weiter unten.
+Siehe Ablaufen einer [Normale Schlachten](Normale-schlacht).
 
 ## Eine Schlacht schlagen
 

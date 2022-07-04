@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 9
 title: Normale Schlachten
 ---
 
@@ -35,7 +35,7 @@ Die zusätzlichen Armee-Punkte stehen nur für die aktuelle Schlacht zur Verfüg
 
 ## Schritt 3: Verteidigerbonus ermitteln (mobilisieren)
 
-Jetzt kann der Verteidiger zusätzlich Versorgungspunkte aus seinem Rüstungspool ausgeben, um diese in Form von Armeepunkten in seine Armee zu investieren. Das Punkte Maximum ist die Stufe der überlegenen Armee.
+Jetzt kann der Verteidiger zusätzlich Versorgungspunkte aus seinem Versorgungspool ausgeben, um diese in Form von Armeepunkten in seine Armee zu investieren. Das Punkte Maximum ist die Stufe der überlegenen Armee.
 
 :::caution Hinweis
 
@@ -49,11 +49,11 @@ Diese gelten ebenfalls nur für diese Schlacht und verfallen wie der Truppenbonu
 
 **Annahme:** Der Verteidiger ermittelt als unterlegene Armee einen Truppenbonus von zusätzlichen 500 Punkten und könnte daher nochmal 500 Punkte aus seinem Versorgungspool investieren, um die Armee auszugleichen.
 
-**Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus voll-mobilisierter Verteidiger (temporär) Stufe 3 (1500 	Punkte)
+**Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus voll-mobilisierter Verteidiger (temporär) Stufe 3 (1500 Punkte)
 
 **Annahme:** Hätte der Verteidiger statt der benötigten 500 Punkte, nur 250 Versorgungspunkte in seinem Versorgungspool, so könnte er die Armee nur um 750 Armeepunkte verstärken und müsste mit einer Differenz von 250 Punkten gegen die angreifende Armee spielen.
 
-**Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus teil-mobilisierter Verteidiger (temporär) Stufe 2 (1250 	Punkte)
+**Ergebnis:** Angreifer Stufe 3 (1500 Punkte) versus teil-mobilisierter Verteidiger (temporär) Stufe 2 (1250 Punkte)
 
 :::
 
@@ -63,8 +63,6 @@ Haben beide Armeen nach Berücksichtigung aller Boni 1500 Punkte so dürfen die 
 
 |Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlüstpunkte für totale Vernichtung|
 |---|---|---|---|
-|1750|438-875|876-1313|>1314|
-|2000|500-1000|1001-1500|>1501|
 |2250|563-1125|1126-1688|>1689|
 |2500|625-1250|1251-1875|>1876|
 |2750|688-1375|1376-2063|>2064|
@@ -73,7 +71,14 @@ Haben beide Armeen nach Berücksichtigung aller Boni 1500 Punkte so dürfen die 
 ## Schritt 5: Mission ermitteln
 
 Eine Mission kann mit dem [Open War Missionsgenerator](http://warhammer-page-28686.s3-website-eu-west-1.amazonaws.com/) oder dem Kartendeck vor Ort ermittelt werden.
+
+:::tip Alternative Missionen 
+
+Alternativ können Spieler sich auch dazu entscheiden die Mission mit dem Tempest of War Kartendeck zu ermitteln.
+
 Die Spieler können sich auch auf ein Matched-Play einigen und eine Mission aus der Eternal War/GT- Missionsreihe spielen. 
+
+:::
 
 1. Missionsziel-Karte ziehen
 2. Aufstellungs-Karte ziehen
@@ -109,13 +114,13 @@ Jede Fraktion kann bei einer Schlacht, unbewaffnete Befestigungsanlagen ohne Arm
 
 Befestigungen, welche über eine Ballistische Fähigkeit verfügen, werden regulär zu den vorgesehenen Punktekosten in das Kontingent aufgenommen und zählen in die Gesamtarmeepunkte. Diese Befestigungen können bei Festungsschlachten zusätzlich zu den vorgegebenen Befestigungen eingesetzt werden.
 
-### Sekundäre Missionsziele
+### Schritt 7. Chaos Missionsziele
 
-Bei einer Open War Schlacht wählen die Spieler jeweil 2 [Chaos Missionsziele](Missionsziele).
+Bei einer Normalen Schlacht wählen die Spieler 1 [Chaos Missionsziele](Missionsziele).
 
-Bei einer Matched Play Schlacht wählen die Spieler 3 Sekundärziele aus dem Warhammer 40K Grundregelwerk und/oder Grand Tournament 2021. Als Alternative ist es auch möglich 2 Sekundärziele und 1 Chaos Missionsziel zu wählen.
+Bei einer Matched Play Schlacht wählen die Spieler 3 Sekundärziele aus dem Warhammer 40K Grundregelwerk und/oder aus dem aktuellen Grand Tournament. Als Alternative ist es auch möglich 2 Sekundärziele und 1 Chaos Missionsziel zu wählen.
 
-## Schritt 7. Spieltisch
+## Schritt 8. Spieltisch
 
 Die Spieler wählen einen Spieltisch aus und stellen das Terrain auf.
 
@@ -125,11 +130,11 @@ Die Spieler können das Gelände frei platzieren. Richtlinien, Vorschläge und B
 
 :::
 
-## Schritt 8. Die Twist-Karte ziehen
+## Schritt 9. Die Twist-Karte ziehen
 
 Die Spieler ziehen nun die Twist-Karte. Man kann sich auch entscheiden, dass man die gezogene Karte ablegt und eine neue zieht oder aber, man verzichtet vollkommen auf die Twist-Mechanik.
 
-## Schritt 9. Die Armee auf dem Spielfeld aufstellen
+## Schritt 10. Die Armee auf dem Spielfeld aufstellen
 
 Angreifer und Verteidiger werden nicht per Würfelwurf ermittelt, stattdessen ist derjenige der Angreifer, welcher auf der Kampagnenkarte den Angriff angesagt hat.
 
@@ -138,9 +143,13 @@ Startend mit dem Verteidiger, werden nun abwechselnd die Einheiten aufgestellt.
 
 Der Startspieler wird mit einem W6 Wurf ermittelt. Der Gewinner sucht sich aus wer den ersten Zug hat.
 
+:::caution Hinweis
+
 Des Weiteren startet der Spieler mit der unterlegenen Armee, mit 5 Siegpunkten für je 250 Punkte Differenz.
 
-## Schritt 10. Die Schlacht wird nun geschlagen
+:::
+
+## Schritt 11. Die Schlacht wird nun geschlagen
 
 Eine Schlacht wird über 5 Schlachtrunden geschlagen.
 
@@ -148,7 +157,7 @@ Sollte eine der beiden Fraktionen während der Schlacht aufgeben und vom Schlach
 
 Entstandene Verluste müssen, wie in Schritt 11 vorgesehen berechnet werden.
 
-## Schritt 11. Verluste ermitteln
+## Schritt 12. Verluste ermitteln
 
 Verluste werden immer ausgehend von den gespielten Armeepunkten errechnet.
 
@@ -160,13 +169,14 @@ Die Spieler müssen sich die jeweiligen, beim Gegner verursachten Verluste notie
 
 |Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlüstpunkte für totale Vernichtung|
 |---|---|---|---|
+|20000|500-1000|1001-1499|>1500|
 |1500|375-750|751-1125|>1126|
-|1000|250-500|551-750|>751|
+|1000|250-500|501-750|>751|
 |500|125-250|251-375|>376|
 
 :::info Hinweis
 
-Sollte der Gewinner seine Armee vollkommen durch Verluste verlieren (Gewinner verliert mehr als 2/3 seiner Armee), so muss der Verlierer dennoch seine Armee zurückziehen, da die angreifende Armee zwar vernichtet ist aber der Verlierer aus dem Gebiet verdrängt wird.
+Sollte der Gewinner seine Armee vollkommen durch Verluste verlieren so muss der Verlierer dennoch seine Armee zurückziehen, da die angreifende Armee zwar vernichtet ist aber der Verlierer aus dem Gebiet verdrängt wird.
 
 :::
 
@@ -181,16 +191,6 @@ Achtung! Wenn das Spiel skaliert wurde, muss die Tabelle unter „Schritt 4 Skal
 Der Gewinner, erhält 250 Versorgungspunkte.
 
 Sollte der Gewinner eine Armee gespielt haben, welche eine oder mehr Stufen niedriger als die des Gegners war, so bekommt er 500 Versorgungspunkte als Belohnung.
-
-Es gibt 4 Typen von Siegen:
-
-1. **Pyrrhussieg:** Die Schlacht wurde gewonnen aber zu welchem Preis. Die Armee des Siegers gilt aufgrund der Verluste als vernichtet.
-
-2. **Knapper Sieg:** Es war ein harter Kampf aber am Ende konnten wir uns behaupten. Die Armee hat 2/3 der Truppen verloren und verliert daher 2 Armeestufe.
-
-3. **Normaler Sieg:** Es war ein ausgewogener Kampf und die Verluste liegen innerhalb der Erwartungen. Die Armee hat 1/3 der Truppen verloren und verliert daher 1 Armeestufe.
-
-4. **Überwältigender Sieg:** Sie haben nicht einmal gemerkt was sie getroffen hat, die Verluste belaufen sich auf weniger als 1/3 der Gesamtarmeepunkte, die Armee verliert keine Stufe.
 
 Der Gewinner bleibt auf dem Feld, welches angegriffen wurde und der Verlierer muss sich in ein angrenzendes freies Feld zurückziehen.
 
