@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Ereignisfelder: 
+# Ereignisfelder 
 
 Manche Felder sind im verdeckten als Ereignisfelder markiert. 
 

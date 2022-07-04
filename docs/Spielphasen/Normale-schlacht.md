@@ -169,7 +169,7 @@ Die Spieler müssen sich die jeweiligen, beim Gegner verursachten Verluste notie
 
 |Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlüstpunkte für totale Vernichtung|
 |---|---|---|---|
-|20000|500-1000|1001-1499|>1500|
+|2000|500-1000|1001-1499|>1500|
 |1500|375-750|751-1125|>1126|
 |1000|250-500|501-750|>751|
 |500|125-250|251-375|>376|

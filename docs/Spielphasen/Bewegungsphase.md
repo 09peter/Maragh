@@ -36,7 +36,7 @@ Feindliche Primär und Sekundärgebiete.
 
 Jede Runde, welche im Orbit verbracht wird, kostet 250 Versorgungspunkte. 
 
-:::Tip Hinweis
+:::info Hinweis
 
 Diese Kosten fallen zu Beginn der Bewegungsphase an!
 

@@ -2,6 +2,13 @@
 sidebar_position: 11
 title: Festungsschlacht
 ---
+
+:::danger Achtung
+
+Die Regeln zu Festungsschlachten werden momentan überarbeitet. Diese Version entspricht noch nicht den Letztstand.
+
+:::
+
 # Eine Schlacht gegen eine Festung schlagen
 
 Wird eine Festung angegriffen ermittelt man nicht wie üblich eine Mission aus dem Open-War Kartendeck, sondern spielt ein eigens erschaffenes Szenario namens "Festungsangriff".
