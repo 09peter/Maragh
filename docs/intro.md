@@ -5,9 +5,9 @@ id: intro
 ---
 
 # The Eternal War of M'aragh
-Wilkommen zum online Regelwerk der Warhammer 40K Kampagne "The Eternal War of M'aragh - Episode I"
+Wilkommen zum online Regelwerk der Warhammer 40K Kampagne "The Eternal War of M'aragh - Episode II"
 
-Die aktuelle Version des Regelwerks ist 1.6.1 (28/2/2022).
+Die aktuelle Version des Regelwerks ist 2.0 (4/7/2022).
 
 ## Voraussetzungen
 
