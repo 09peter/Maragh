@@ -35,7 +35,6 @@ dargestellt.
 |Missionziel|Voraussetzungen|
 |---|---|
 |**Geschenk der Gier**|Der Spieler startet ein Match seiner Wahl mit drei zusätzlichen Kommandopunkten.|
-|**Geschenk der Dominanz**|Zu Beginn eines Matches seiner Wahl, darf der Spieler eine beliebige Einheit, die nicht titanisch ist,
-gratis in die Strategische Reserve geben.|
+|**Geschenk der Dominanz**|Zu Beginn eines Matches seiner Wahl, darf der Spieler eine beliebige Einheit, die nicht titanisch ist, gratis in die Strategische Reserve geben.|
 |**Geschenk der Beharrlichkeit**|Zwei Einheiten beliebige Einheiten seiner Wahl, mit der Schlachtfeldrolle "Troops", dürfen in einer Schlachten eine 6” Bewegung vor Beginn der Schlacht durchfürhen.|
 |**Geschenk der Gewalt**|Eine Einheit, die im Schritt "Verstärkungen", weiter als 9" und weniger als 12" von einer feindlichen Einheit aufgestellt wurde, darf in der folgenden Angriffsphase eine "Autocharge-Bewegung” durchführen. Der Charge-roll muss nicht gewürfelt werden. Die Einheit darf sich die Distanz an die ausgewählte, feindliche Einheit ran bewegen. Die ausgewählte, feindliche Einheit darf jedoch für 0 CP Overwatch einsetzen und trifft in diesem Fall auf die 5+!|
