@@ -13,7 +13,7 @@ Armeen und Festungen dieser Fraktion, die in Reichweite liegen, müssen durch di
 
 Tyraniden Spawnen in der Versorgungsphase eine Stufe 4 Armee, ein Feld entfernt von einer Festung/Armee eines Spielers.
 
-Es dürfen sich maximal 3 Tyraniden-Armeen auf der Kampagnenkarte aufhalten.
+Es dürfen sich maximal 5 Tyraniden-Armeen auf der Kampagnenkarte aufhalten.
 
 Tyraniden dürfen Festungen angreifen. 
 

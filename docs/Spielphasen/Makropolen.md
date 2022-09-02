@@ -9,13 +9,15 @@ Auf der Kampagnenkarte gibt es 3 Makropolen. Diese können von Spielern eingenom
 
 Ein Spieler nimmt eine Makropole ein, in dem er eine Stufe 4-Armee auf das Feld bewegt. Die Armee wird zur Garnison und kann nicht mehr bewegt oder für Angriffe genutzt werden.
 
-Pro Makropol-Stufe bekommt der Besitzer 250 VP zusätzlich zu seinen Festungen und seines Hauptquartiers.
+Pro Makropol-Stufe bekommt der Besitzer 250 VP zusätzlich zu den 1000 VP durch das Primärgebiet.
 
-Weiters darf man Armeen in einer Makropole bauen, bzw. sie direkt in den Orbit bauen (Diese zählt gegen das Limit von maximal einer Armee im Orbit).
-
-Eine Makropole erhöht das Limit von 5 Armeen um 1.
+Weiters darf man eine Armee pro Versorgungsphase in einer Makropole erschaffen.
 
 Ein Spieler kann nur eine Makropole besitzen.
+
+Armeen die sich angrenzent zu einer eigenen Makropole befinden können verstärkt werden.
+
+Eine Makropole dient dem Besitzer als Teleporter um eine Armee pro Runde, kostenlos in den Orbit zu befördern.
 
 Jedes mal wenn ein Spieler, Besitz über eine Makropole erlangt, verlieren W3 Spieler 500VP. Dies wird durch einen Spielleiter ermittelt.
 

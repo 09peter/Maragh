@@ -20,31 +20,20 @@ Steht eine Armee auf einem Feld, welches einen Hafen beinhaltet, darf diese sofo
 
 ## Orbitale Bewegung
 
-Eine Armee kann von jeglichem Feld, für 1500 Versogungspunkte, in den Orbit befördert werden.
+Eine Armee kann von jeglichem Feld, für Versogungspunkte, in den Orbit befördert werden.
 
-Bewegt sich eine Armee auf ein Warp-Portal-Feld, so kann man diese gratis in den Orbit senden.
+Stufe 1-2 Armeen können für 250 VP in den Orbit, Stufe 3-4 Armeen können für 500 VP in den Orbit.
 
-Ein Spieler kann nur maximal eine Armee im Orbit haben.
+Es dürfen sich maximal 2 Armeen gleichzeitig im Orbit befinden.
 
-Nach 1 bis 3 Runden kann diese Armee auf einem beliebigen freien Gebiet landen. 
+Zu Beginn der Bewegungsphase kann eine Armee aus dem Orbit auf einem beliebigen freien Gebiet landen. 
+Diese muss platziert werden BEVOR sich die anderen Armeen bewegen.
 
 :::caution Ausnahmen
 
 Feindliche Primär und Sekundärgebiete.
 
 :::
-
-Jede Runde, welche im Orbit verbracht wird, kostet 250 Versorgungspunkte. 
-
-:::info Hinweis
-
-Diese Kosten fallen zu Beginn der Bewegungsphase an!
-
-:::
-
-Entscheidet sich der Spieler die Armee landen zu lassen, so muss er diese Runde nicht bezahlen jedoch muss diese Armee vor allen anderen Bewegungen platziert werden. Gelandete Armeen können sich in dieser Kampagnenrunde nicht bewegen, jedoch in der folgenden Angriffsphase angreifen!
-
-Wenn man eine Armee, die sich im Orbit befindet, nicht länger versorgen kann, muss diese in einem eigenen, freien Sekundärgebiet landen. 
 
 ## Armeen zusammenlegen (bis max. Stufe 4):
 

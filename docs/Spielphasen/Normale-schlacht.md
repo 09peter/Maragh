@@ -17,7 +17,7 @@ Sollte die angreifende Armee eine niedrigere Stufe als der Verteidiger haben, so
 
 :::
 
-## Schritt 2: Truppenobus ermitteln
+## Schritt 2: Truppenbonus ermitteln
 
 Die unterlegene Armee erhält einen Truppenbonus unter Anwendung dieser Formel:
 
@@ -61,7 +61,7 @@ Diese gelten ebenfalls nur für diese Schlacht und verfallen wie der Truppenbonu
 
 Haben beide Armeen nach Berücksichtigung aller Boni 1500 Punkte so dürfen die Spieler sich entscheiden in 250er Schritten zu skalieren. Spieler, die größere Match-Ups bevorzugen, haben somit auch die Möglichkeit diese zu spielen. Um zu Skalieren benutzt man die folgende Tabelle:
 
-|Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlüstpunkte für totale Vernichtung|
+|Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlustpunkte für totale Vernichtung|
 |---|---|---|---|
 |2250|563-1125|1126-1688|>1689|
 |2500|625-1250|1251-1875|>1876|
@@ -167,12 +167,12 @@ Dabei gelten Einheiten, welche nicht vernichtet wurden, jedoch unter der Hälfte
 
 Die Spieler müssen sich die jeweiligen, beim Gegner verursachten Verluste notieren. Diese werden dann in das Kampagnen-Sheet eintragen.
 
-|Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlüstpunkte für totale Vernichtung|
-|---|---|---|---|
-|2000|500-1000|1001-1499|>1500|
-|1500|375-750|751-1125|>1126|
-|1000|250-500|501-750|>751|
-|500|125-250|251-375|>376|
+|Armeepunkte|Verlustpunkte für 1 Stufe|Verlustpunkte für 2 Stufen|Verlustpunkte für 3 Stufen|Verlustpunkte für totale Vernichtung|
+|---|---|---|---|---|
+|2000|251-750|751-1250|1251-1750|>1750|
+|1500|251-500|501-750|>1250|
+|1000|251-500|-|>750|
+|500|-|-|>250|
 
 :::info Hinweis
 

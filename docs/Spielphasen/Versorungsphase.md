@@ -4,16 +4,7 @@ sidebar_position: 3
 
 # Versorgungsphase
 
-Jeder Spieler erhält am Anfang der Phase Versorgungspunkte wie in unten angeführte Tabelle vorgesehen. Diese werden im Versorgungspool gesammelt.
-
-|Versorungspunkte||
-|-------|---|
-|Primärgebiet|750 VP|
-|Primärgebiet + 1 Festung|1000 VP|
-|Primärgebiet + 2 Festungen|1250 VP|
-|Primärgebiet + 3 Festungen|1500 VP|
-|Primärgebiet + 4 Festungen|1750 VP|
-|Primärgebiet + 5 Festungen|2000 VP|
+Jeder Spieler erhält am Anfang der Phase 1000 VP in seinen Versorgungspool.
 
 Pro besetzen Hafen, bekommen die Spieler 250 VP.
 
@@ -24,7 +15,7 @@ Pro besetzte Makropole bekommt der Besitzer für jede Makropol-Stufe 250 VP zus�
 Die Versorgungsphase unterteilt sich in zwei Abschnitte:
 
 - Falls der Spieler eine Makropole besitzt, muss am der Versorgungsphase für jede Makropole ein Populations-Wurf gemacht werden
-- Versorgungspunkte mit Hilfe der Tabelle ermitteln
+- 1000 VP kommen in den Versorgungspool
 - Versorgungspunkte verwenden
 
 Versorgungspunkte können verwendet werden um:
@@ -42,9 +33,13 @@ Heißt: 3 werden gebaut und 2 weitere erobert oder jemand erobert 5 Festungen.
 
 ##	Armeen bauen oder die Stufe einer Armee anheben
 
-Pro Kampagnenrunde können zwei neue Armeen ausgehoben werden. Diese können entweder innerhalb der Sekundärgebiete oder von Festungen platziert werden. 
+Pro Versorgungsphase können zwei neue Armeen bei einem Primärgebiet erschaffen werden, eine neue Armee pro Festung bei einer Festung und eine neue Armee bei einer eigenen Makropole.
+
+Das Armeelimit darf nicht überschritten werden!
 
 Neue Armeen können sich in der Runde weder bewegen, hochgestuft noch zusammengelegt werden.
+
+Armeen dürfen nur hochgestuft werden wenn sie sich angrenzent zu eigenen Primärigebieten, Festungen oder Makropolen befinden.
 
 ### 500 Versorgungspunkte
 Eine neue Armee mit Stufe 1 ausheben.
@@ -59,4 +54,3 @@ Eine Armee mit Stufe 1 um zwei Stufen erhöhen auf Stufe 3.
 Eine Armee mit Stufe 1 um drei Stufen erhöhen auf Stufe 4.
 
 Armeen, welche in Konflikten stehen können, nicht verstärkt werden
-Ein Spieler kann nur maximal 5 Armeen besitzen
