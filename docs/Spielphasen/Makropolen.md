@@ -15,7 +15,7 @@ Weiters darf man eine Armee pro Versorgungsphase in einer Makropole erschaffen.
 
 Ein Spieler kann nur eine Makropole besitzen.
 
-Armeen die sich angrenzent zu einer eigenen Makropole befinden können verstärkt werden.
+Armeen die sich angrenzend zu einer eigenen Makropole befinden können verstärkt werden.
 
 Eine Makropole dient dem Besitzer als Teleporter um eine Armee pro Runde, kostenlos in den Orbit zu befördern.
 
